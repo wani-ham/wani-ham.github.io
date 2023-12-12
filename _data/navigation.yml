@@ -12,7 +12,7 @@ main:
     url: /cv/
 
   - title: "Blog Posts"
-    url: /tag-archive/   
+    url: /tags/   
     
   - title: "Projects"
     url: /portfolio/
