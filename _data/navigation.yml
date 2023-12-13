@@ -12,7 +12,7 @@ main:
     url: /cv/
 
   - title: "Blog Posts"
-    url: /tags/   
+    url: "https://velog.io/@wani-ham"   
     
   - title: "Projects"
     url: /portfolio/
